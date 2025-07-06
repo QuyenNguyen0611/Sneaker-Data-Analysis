@@ -67,3 +67,7 @@ The project followed a structured time series approach to analyze seasonality pa
 ## 5. Conclusion
 This project confirms the existence of strong seasonality in sneaker sales and provides a robust sales forecast for the next year. A dashboard framework is proposed to equip the business with real-time visibility into revenue trends and inventory efficiency, enabling more proactive and data-driven decisions.
 
+**Access Full Project Code** [here](https://colab.research.google.com/drive/1RxoQYgR0ltBEN8ayvQ8zb-FlO4ZcNI7X#scrollTo=t_6pg2cGCbaA)
+
+**View Interactive Dashboard** [here](https://public.tableau.com/app/profile/quyen.nguyen8421/viz/SneakerBusinessPerformance/InventoryEfficiency)
+
