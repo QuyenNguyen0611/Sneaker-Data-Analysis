@@ -24,6 +24,9 @@ Track overall sales performance and provide detailed breakdowns by key product a
 - Quickly identify best-selling products and underperforming segments.
 - Detect seasonal patterns and high-revenue months.
 - Enable targeted promotions based on product and customer segmentation.
+  <img width="826" height="417" alt="Screenshot 2026-05-08 at 14 48 05" src="https://github.com/user-attachments/assets/24b9c9f4-d54d-45b7-acdc-ebddfb0991e7" />
+<img width="835" height="419" alt="Screenshot 2026-05-08 at 14 47 59" src="https://github.com/user-attachments/assets/20f79e78-6619-445d-b0b0-95e235aab7ba" />
+
 
 ## 2. Inventory Efficiency Dashboard
 **Purpose:** Monitor production, sales efficiency, damaged products, and overproduction risks to optimize inventory management.
@@ -40,6 +43,7 @@ Track overall sales performance and provide detailed breakdowns by key product a
 - Identify products contributing to high damage rates or overstock situations.
 - Optimize stock levels to reduce waste and improve turnover.
 - Support data-driven inventory planning to minimize financial losses.
+<img width="835" height="419" alt="Screenshot 2026-05-08 at 14 47 59" src="https://github.com/user-attachments/assets/13c46e9e-d92c-4a4e-aeb7-6499c1e48bc3" />
 
 ## 3. Technical Implementation
 - Dashboards built using an interactive BI tool (Tableau).
